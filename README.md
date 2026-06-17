@@ -12,10 +12,7 @@
 
 💻 Estoy por terminar la carrera en **Desarrollo de Software**.  
 🌱 Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y programación.  
-🛠️ He trabajado de manera **freelance** en diferentes áreas, especialmente en:
-
-- 🌻 Jardinería (actualmente)
-- 🍽️ Restaurante durante 4 años
+🛠️ He trabajado de manera **freelance** en diferentes áreas.
 
 Esas experiencias me ayudaron a desarrollar disciplina, responsabilidad y trabajo en equipo.  
 
